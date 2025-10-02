@@ -1,3 +1,3 @@
 # DWES_PHP
-# Carlos Gabruel García Guzmán
+# Carlos Gabriel García Guzmán
 # carlosggarcia.guzman@gmail.com
