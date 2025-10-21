@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <form name='PHP' action='cambiobase.php' method='post'>
+    <title>4.3</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <h1>Conversor Numerico</h1>
+        <form>
+            <label for="num">Numero decimal: </label>
+            <input type="number" id="num" name="num" required>
+            <br><br><br>
+            <div style="margin-left: 40%; text-align: left;">
+                Seleccione una opcion:
+                <br><br>
+                <input type="radio" name="tipo" value="B" checked>Binario
+                <br>
+                <input type="radio" name="tipo" value="O">Octal
+                <br>
+                <input type="radio" name="tipo" value="H">Hexadecimal
+                <br>
+                <input type="radio" name="tipo" value="T">Todos los sistemas
+            </div><br>
+            <button type="submit" id="Enviar">Enviar</button>
+            <button type="reset" id="Borrar">Borrar</button>
+        </form>
+    </div>
+</body>
+</html>
