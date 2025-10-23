@@ -1,3 +1,4 @@
 # DWES_PHP
-# carlosggarcia.guzman@gmail.com
-# 192.168.206.228
+Desarrollo Web Entorno Servidor  
+Correo: carlosggarcia.guzman@gmail.com  
+Servidor Web: 192.168.206.228
